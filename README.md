@@ -1,5 +1,9 @@
-# Computer_vision_Tracking_-_Detection
+
 # People Counter using YOLOv8 Object Detection
+
+<div align="center">
+  <img src="https://github.com/ultralytics/assets/raw/main/yolov8/banner-yolov8.png" alt="YOLOv8 Logo" width="800">
+</div>
 
 A computer vision system that counts people crossing a defined line in video streams using YOLOv8 object detection and SORT tracking algorithm.
 
